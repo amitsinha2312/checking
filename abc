@@ -2,4 +2,4 @@
 config=ConfigParser.ConfigParser()
 path1="\test1\first"
 path2="\test2\second"
-path3="\test2\third"
+
